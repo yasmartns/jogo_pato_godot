@@ -10,15 +10,6 @@ config_version=5
 
 [application]
 
-config/name="jumpingDuck"
-run/main_scene="res://scenes/node_2d.tscn"
+config/name="jogo git"
 config/features=PackedStringArray("4.1", "Forward Plus")
 config/icon="res://icon.svg"
-
-[dotnet]
-
-project/assembly_name="jumpingDuck"
-
-[rendering]
-
-textures/canvas_textures/default_texture_filter=0
